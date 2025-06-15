@@ -1,0 +1,12 @@
+{
+  "name": "my_contact_backend_api",
+  "version": "1.0.0",
+  "description": "This is expressjs project for my contact api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Isibor Ernest",
+  "license": "ISC"
+}
